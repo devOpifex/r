@@ -25,4 +25,7 @@ Config file `~/.rconfig`:
 
 Usage: `r d c i`
 
-Commands are executed in order.
+## FAQ 
+
+- Commands are executed in order.
+- Exists if command errors.
