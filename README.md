@@ -25,7 +25,9 @@ Config file `~/.rconfig`:
 
 Usage: `r d c i`
 
+Place any number of commands in the config file and run `r <command>`.
+
 ## FAQ 
 
 - Commands are executed in order.
-- Exists if command errors.
+- Exits if command errors.
