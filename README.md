@@ -4,7 +4,7 @@ Create simple shortcuts for R commands
 
 ## Install
 
-Requires [Go](https://go.dev/dl/) 1.26 or later.
+Requires [Go](https://go.dev/dl/) 1.26 or later, or build the [POSIX-only](https://github.com/devOpifex/rc)
 
 ```bash
 go install github.com/devOpifex/r@latest
